@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30f4cf9a1caca238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI For Everyone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "26365bf193740d51",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hugging Face Course.md",
+                "file": "AI For Everyone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hugging Face Course.md",
+                "file": "AI For Everyone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hugging Face Course.md"
+                "file": "AI For Everyone.md"
               }
             }
           }
@@ -146,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e53ad5d43afebe74",
+  "active": "30f4cf9a1caca238",
   "lastOpenFiles": [
-    "Hugging Face Course.md"
+    "Hugging Face Course.md",
+    "AI For Everyone.md"
   ]
 }

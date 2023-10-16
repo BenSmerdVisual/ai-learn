@@ -1,0 +1,21 @@
+# Week 1- Introduction
+- **ANI**- Artificial narrow intelligence- doing one guided version of AI- smart speaker, self-driving, web search, AI in farming and factories- have one trick about it- one specific task
+- **AGI**- Artifical General Intelligence- build AI to do anything a human can do and do more than what a human can do
+- More progress in ANI, rather than AGI as nowhere even close to the AGI, but very good progress on ANI 
+- **Machine Learning**- 
+	- **Supervised Learning**- input to output mappings of information- if its someting basic and straight forward to input of an email and output of if its spam (spam filtering) or an english to chinese language translator
+		- Training larger amounts of data to be able to get better performance results
+- **Data**- Using the datasets to be able to recognise patterns within data of integers and being able to label specific data to maybe an image or some sort of visualisation- kind of a key:value tag
+	- **Acquiring the data**- can either manually get it and add in relationships and keys to each piece of data- but this is too laborsome. Can observe behaviours and store the data and try make predictions based on previous behaviours. Can download from websiutes/partnerships etc. 
+	- **Data problems**- data integrity and missing values can cause problems, need to data clean
+- **Terminology**- 
+	- **Machine Learning**- Learns the input to output- usually software running a algorithm of machine learning. Gives computers the ability to learn without being explicitly programmed (software)
+	- **Data Science**- Analyse the data set to come up with the insight to improve businesses decisions. Extracting knowledge and insights from data (power slides)
+	- **Deep Learning**- Using the neural networks to take in different sets of data and able to make an output based on each of the input, the neural networks basically checks for many different conditions to be able to provide the best slution- basically one complex and large mathetmatical equation
+- **AI in a company**- Using strategic data acquisition and data warehouses to be able to store all their data and make decision based on it.
+	- **AI  Transformation for a company**-
+		1. Execute pilot projects to gain momentum
+		2. Build an in-housr AI team
+		3. Provide broad AI training
+		4. Develop and AI strategy
+		5. INternal and external communcation
