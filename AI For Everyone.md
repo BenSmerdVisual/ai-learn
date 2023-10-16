@@ -5,6 +5,9 @@
 - **Machine Learning**- 
 	- **Supervised Learning**- input to output mappings of information- if its someting basic and straight forward to input of an email and output of if its spam (spam filtering) or an english to chinese language translator
 		- Training larger amounts of data to be able to get better performance results
+		- Using the labeled data so then the labels are recognised through the patterns by their results and then the label could be returned as the output as it is determined by the value that you are seeking- the supervision is having the kay being a supervisor of the value
+			- **Regression model**- Predicting a continous-valued output like a housing price of a suburb or value of a speicif currency (as these values are constantly changing)
+			- **Classification model**- Trying to predict a discrete number of values- like if something is a specific image based on a set of given images (cat, dog, tiger) or if something is something or is-not something (is this email spam)
 - **Data**- Using the datasets to be able to recognise patterns within data of integers and being able to label specific data to maybe an image or some sort of visualisation- kind of a key:value tag
 	- **Acquiring the data**- can either manually get it and add in relationships and keys to each piece of data- but this is too laborsome. Can observe behaviours and store the data and try make predictions based on previous behaviours. Can download from websiutes/partnerships etc. 
 	- **Data problems**- data integrity and missing values can cause problems, need to data clean
