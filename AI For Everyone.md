@@ -2,8 +2,9 @@
 - **ANI**- Artificial narrow intelligence- doing one guided version of AI- smart speaker, self-driving, web search, AI in farming and factories- have one trick about it- one specific task
 - **AGI**- Artifical General Intelligence- build AI to do anything a human can do and do more than what a human can do
 - More progress in ANI, rather than AGI as nowhere even close to the AGI, but very good progress on ANI 
+- **What AI can/cant do today**- It can find basic examples when presented the examples, but it cannot figure out context of the examples--- this is the main problem
 - **Machine Learning**- 
-	- **Supervised Learning**- input to output mappings of information- if its someting basic and straight forward to input of an email and output of if its spam (spam filtering) or an english to chinese language translator
+	- **Supervised Learning**- input to output mappings of information- if its someting basic and straight forward to input of an email and output of if its spam (spam filtering) or an english to chinese language translator- anything that you can do within 1 second though can be automated
 		- Training larger amounts of data to be able to get better performance results
 		- Using the labeled data so then the labels are recognised through the patterns by their results and then the label could be returned as the output as it is determined by the value that you are seeking- the supervision is having the kay being a supervisor of the value
 			- **Regression model**- Predicting a continous-valued output like a housing price of a suburb or value of a speicif currency (as these values are constantly changing)
@@ -22,3 +23,5 @@
 		3. Provide broad AI training
 		4. Develop and AI strategy
 		5. INternal and external communcation
+- **Deep learning**- taking in all the factors that the person is using to try find the answer and being able to compare them to find the best answer, when comparing large scale data variables against each other to find the answer--- from the input its finding the best way to find the most efficient ouput
+	- **neural networks**- are kind of like nodes tha have a specific value that can be combined from previous nodes and previous etc unbtil they find the value for the output
