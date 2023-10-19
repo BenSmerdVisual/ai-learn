@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codecademy.md",
+                "file": "AI For Everyone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codecademy.md",
+                "file": "AI For Everyone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codecademy.md"
+                "file": "AI For Everyone.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d61bef504d67501",
+  "active": "30f4cf9a1caca238",
   "lastOpenFiles": [
-    "AI For Everyone.md",
     "Codecademy.md",
+    "AI For Everyone.md",
     "Hugging Face Course.md"
   ]
 }
