@@ -44,4 +44,77 @@
 - **Machine Learning Tools**- 
 	- **Research publications**- Arxiv
 	- **Frameworks**- Pytorch, TensorFlow, HugginFace
-	- 
+
+## Week 3- AI In Your Company
+- Having a pipeline which handles the steps of AI being able to recognise intent from a question and be able to utilise the company data to be able to send back a response to the usert
+	- Need to know the process for the command to be able to make most of each step
+	- A lot of steps- things like being able to identify a certain word in the user input + recognising the intent of the word and what context it is being used in + being able to recognise if there was some sort of command eg "set a timer" and what sort of function this would then trigger
+	- Understanding the steps of how the AI will work based on whatever the function that is causing triggers happens. the pipeline of what is happening based on input and ouput and key mappings
+- **Roles in an AI team**- 
+	- SWE- writing the execution code for the AI to be able to execute whatever the function is from the user input
+	- Machine learning engineer- builing the software and algorithms for the machine learning so the ouput comes from the input
+	- ML Researcher- Continue learning about ML and what are good practices/algorithms
+	- APplied ML Scienties- Academic and literature to find the best practices and techniques of latest ML research
+	- Data scientist- Examine the data and provide insights to better improve the business
+	- Data engineer- ORganize the data and saved in an easy accessible and cost effective way
+	- AI Product Manager- Help decide what to build, feasible and valuable
+- **AI Transformation**- move into an AI company
+	1. Execute pilot projects to gain momentum
+		- More important for initial project to succeed rather than be value- choose something that has good chance of success
+		- Make some traction within 6-12 months
+		- First 1-2 projects can be in hour or outsorced
+	2. Build inhouse AI team
+		- Good to have a centralize AI team
+		- Build company wide platforms/tools/infrastructure for the uni to work together
+	3. provide AI training to most peoploe
+		- Good to have most people that will be associated with the AI to understand what the AI can do and will do---- this relates to the workflow chart being able to get the consltants/sales to understand how it works
+	4. Develop AI strategy
+		- Leveraging AI to create advantage in our sector
+		- Design strategy aligned with the Virtous Cycle of AI- better product = more users = more data = better product etc
+		- Good at strategic data acquisition
+		- Can collect data through free ways as this is a good way to collect data to enter the cycle
+		- Building a unified data warehouse
+		- create network effects and platfrm advantages- can accelorate so much
+	5. develop internal/external communcations
+		- Need to keep investor relations up to date to value the company appropriately
+		- Need to keep up to date with government relations as its super important to work collaboratively to bring people the proper benefits
+		- consumret user up to date
+		- talent and recruiting and interal communications to bve able to keep up to date with what isw happening
+- **AI Pitfalls**- Shouldnt rely on just few engineers- need to get people mixing up across the business
+- **First steps in AI**- 
+	- Join groups
+	- Start brainstorming projects- can be even really small to see how it goes
+- **Applicational areas of AI**- 
+	- **COmputer vision**-  being able to take in a picture and classify it as a sepcific thing (eg cat, car, bike)
+		- image classigication/object recognition-Process for the recognition needs a lot of register pictures and then take in new photos which then is a recognizing and comparing to the register pictures and using reinforcement if that new picture is the same classification as the register picture
+		- Object detection- Doing the same bvut with objects, need a register object and then taking in the object recognition. This works differently to image classification as this will provide recognition if in the image there is an object within it
+		- Image sementation- provides the pixel analysis if there are specific things within that image based on the pixel position
+		- Tracking- detecting the movement and where specific movements happened before- its tracking the movements of something
+	- **Natural language processing NLP**- understanding natural lanague for humans to communicate
+		- Text classification- can detect if a specific bit of text is a key:value for what is being input- classifying the text into the key and return the value. Can also do sentiment recognition to see what type of sentiment a specific bit of text has, based on the language used
+		- Information retrevela- stuff like web search, where you have a text query and the AI will return relevant information based on the context of the search query
+		- Name entity recognition- Being able to recognise names within a sentence- peoples names, locations, organisations, countries. hpone numbers etc NER
+		- Machine transalation- being able to translate words from languages
+		- Parsing, part-of-speech tagging- Going through each sentence and being able to identify words based on if they are a noun, adjective etc and be able to structure the sentences based on linguistics. Parsing words as well to see how the words relate to one another
+	- **Speech**- parsing audio data
+		- Speech-to-text (speech recognition)- being able to determine what is being said from the adui waves
+		- Trigger word/wakeword detection- being able to detect a specific word that can cause a trugger for a function (eg Alexa "Hey Alexa") and this can be in different langauges or with accents, needs to be accurate
+		- Speaker ID- being able to identify the identtiy of the speaker, based on their voice
+		- Speech synthesis(text to speech)- being able to have text to speech- someone writing text and then this can be turned into speech
+	- **Robotics**- things like self driving car
+		- Perception- figuring out things in the world around you like a human would with the senses- being able to detect specific things around you
+		- Motion planning- being able to find a path for a robot to follow
+		-  Control- sending commands to the motos to follow a specific path from a remote source
+	- **General ML**- 
+		- Unstructured data- being able to identify links between data that may be unstrcutreed. THis is usually random things like photos of cat recognition
+		- structured data- mroe structure within the data- usually more specific to a singular company
+- **Unsupervised Learning**- Doesnt tell the AI system what the answer is compared to supervised where you provide the AI the answer you are looking for- key mapping (the input must provide the output). Unsupervised finds meaningful things in the data based on what it can find as nothing is told to it to find. Can find things itself without having human input to look for something. 
+	- **Clustering**- Tracking the data within different categories that are then clustered into smaller categories. Find patterns of data where there is data split into clusters that can provide two different lots of information. 
+	- **Criticism**- it needs so much data to be able to identify things as it doesnt use label data (like supervised, where it is told what the object is) it is simply using the data that is being input to then be able to identify what the object is over time--- similar to a human that isnt told what an object is, it will identify it from its own experiences and interactions
+	- **Future**- can provide a more humanistic approach to learning than just machine like
+- **Transfer Learning**- Trasnfering the data from one set of rules into a nother set of rules (changing the data rules for car detection to truck detection)- Learn from task A (car) and use knowlege to help on Task B (truck). Because if you have a larger set from the Task A this can be massive help to detecting in Task B. Not very popular but can work in some areas
+- **Reinforcement Learning**- Just the usual trial and error form of learning- make a mistake and then it will learn to not do that again, and then it will try to do actions which will be successful and help make the goal achieveable. Requires the reward signal to tell the AI if it is working or not working well- usually number based like a scale which would be coded in to be able to then adapt to it to maximise the rewards
+	- weakness- requires huge amount of data and information, with things like games it can just play against itself to learn which isnt bad but then other forms of it in real life scenarios it requires huge amount of data
+- **GANs Generative Adversial Network**- synthesize new images from scratch
+	- Being able to create images based on text and the iamges out there- kind of like midjourney
+- **KNoweldge Graph**- A database that will hold information about a specific topic- databases for companies and their own data based on the topic and knowledge for it (VC information about carers etc)
