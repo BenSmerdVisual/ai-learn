@@ -118,3 +118,6 @@
 - **GANs Generative Adversial Network**- synthesize new images from scratch
 	- Being able to create images based on text and the iamges out there- kind of like midjourney
 - **KNoweldge Graph**- A database that will hold information about a specific topic- databases for companies and their own data based on the topic and knowledge for it (VC information about carers etc)
+
+## Week 4- AI and Society
+- 
