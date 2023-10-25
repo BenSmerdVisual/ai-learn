@@ -120,4 +120,5 @@
 - **KNoweldge Graph**- A database that will hold information about a specific topic- databases for companies and their own data based on the topic and knowledge for it (VC information about carers etc)
 
 ## Week 4- AI and Society
-- 
+- **Realistic view of AI**- Cant be too optimistic and pessimistic
+- **Biased AI through data**- biased data can result in biased AI
