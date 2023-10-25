@@ -8,3 +8,10 @@
 		- **Nominal**- A named value
 		- **Dichotomous**- only 2 logical possiblities (yes/no)
 		- **Ordinal**- some sort of scale where there are multiple possibilties of choice
+- Important to look out for any **missing data** as this can impact the results that you're looking for within the data set, it's not completely necessary to remove it but as long as it's taken into account when making the analysis of it
+- **Accuracy**- need to make sure the dataset that you are using to train the model accurately describes the world
+	- **Standardization**- having a set guidleines that the data collecting must adhere by to ensure that the data isn't inconsistent with other data
+	- IMportant to think critically about the data and spot any common sense inaccuracies that may be a reason for outliers. Think about how any error could have crept in during the data collection process and this can uncover systematic inconsistencies. Identifying possible ways that duplicate data could have been created
+- **Validity**- Making sure that the data actually measures what is set out to measure
+	- Understanding that the specific variables used to make the measurements of the data actually reflect the answer that you are trying to find
+- **Sample representation**- cant test everything, so having a diverse sample size which can be representative of the most key features of the data needs to be used 

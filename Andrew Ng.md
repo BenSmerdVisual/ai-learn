@@ -1,3 +1,4 @@
+# AI FOR EVERYONE
 # Week 1- Introduction
 - **ANI**- Artificial narrow intelligence- doing one guided version of AI- smart speaker, self-driving, web search, AI in farming and factories- have one trick about it- one specific task
 - **AGI**- Artifical General Intelligence- build AI to do anything a human can do and do more than what a human can do
@@ -132,3 +133,13 @@
 - **Adverse Users in AI**- Bad people in the space
 	- Deepfakes- synthesize vidoes of people doing things that they never did- also can be sound
 	- Undermining democracy and privacy- can be done through oppressive surveillance
+- **AI Developing Economies**- 
+	- Utilising AI to allow underdeveloped countries to leapfrog into a developing economy- things like mobile phones and where countries didnt use landlines, they skipped straight to mobile phones- India and China
+	- Good for countries to utilise AI in areas that they are already good at- eg if they are good at exporting Wine then use AI to help export Wine
+	- accelrate the public-private partnerships to accelerate development
+- **AI and jobs**- automating jobs and many will be replaced and many will be created
+	- Some companies thinks that AI will create more jobs than displace jobs
+	- **Conditional basic income**- Not a UBI but having a safety net, but also incentivising people to learn
+	- Lifelong learning society needs to be initiated because the learn for 4 years in college and cruise off that does not work
+	- Learn AI and use it combination with the area you like
+
