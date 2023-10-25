@@ -122,3 +122,13 @@
 ## Week 4- AI and Society
 - **Realistic view of AI**- Cant be too optimistic and pessimistic
 - **Biased AI through data**- biased data can result in biased AI
+	- Learning through text on the internet can learn bad stereotypes
+	- Good way to combat it is getting rid of any bias - "Zero out"- addng a zero to that data set to remove it
+	- Good to be transparent with any bias present and have auditing
+- **Adversarial attacks on AI**- Make the AI do something other than what it was intended to do- 
+	- minor perurbation can happen through a slight change in the data- e.g. image recognition if there is any sort of pixel change in the data set
+	- Things like changing physical appearance to trick AI systems- eg a man wore funky glasses which tricked the AI system into thinking it was a well known actress- putting stickers on a stop sign and it cannot detect the stop sign
+	- **Adversial defences**- high cost to be able to combat this though- but also there is an arms race against it 
+- **Adverse Users in AI**- Bad people in the space
+	- Deepfakes- synthesize vidoes of people doing things that they never did- also can be sound
+	- Undermining democracy and privacy- can be done through oppressive surveillance
