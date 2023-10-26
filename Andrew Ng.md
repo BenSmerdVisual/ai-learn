@@ -143,3 +143,9 @@
 	- Lifelong learning society needs to be initiated because the learn for 4 years in college and cruise off that does not work
 	- Learn AI and use it combination with the area you like
 
+# Opportunities in AI
+- **Sueprvised learning**- labeling the input so then you can know what the output as well, the output is labelled as well so it essentially has examples to be able to match the input to to determine the output 
+	- More input data examples means better model performance
+- **Generative AI**- 
+	- **Text genereation eating**- Putting in a prompt and returning some sort of output related to the input- CHATGPT
+	- 

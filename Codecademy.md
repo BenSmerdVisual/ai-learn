@@ -15,3 +15,10 @@
 - **Validity**- Making sure that the data actually measures what is set out to measure
 	- Understanding that the specific variables used to make the measurements of the data actually reflect the answer that you are trying to find
 - **Sample representation**- cant test everything, so having a diverse sample size which can be representative of the most key features of the data needs to be used 
+## Statistical Thinking
+- **Summary statistics**- Measuring and summarising the variables in a dataset
+- **Categorical Thinking**- Storing qualitative variables into categories that can tell us more about it when we dont have numbers to
+	- **frequency**- the count of how many times a certain variable is there (guitarist= 3, pianits=2, vocal=8)
+	- **proportion**- the frequency divided by the total number of that category- total = 3+2+8=13 (guitarist = 3 / 13, pianist=2/13, vocal=8/13)
+	- **percentage**- proportion converted from decimal to percent- proportion X 100
+- 
