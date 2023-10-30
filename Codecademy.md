@@ -21,4 +21,7 @@
 	- **frequency**- the count of how many times a certain variable is there (guitarist= 3, pianits=2, vocal=8)
 	- **proportion**- the frequency divided by the total number of that category- total = 3+2+8=13 (guitarist = 3 / 13, pianist=2/13, vocal=8/13)
 	- **percentage**- proportion converted from decimal to percent- proportion X 100
-- 
+- **Distribution**- funcionality that shows how frequently each value occurs within all possible values of that variable
+	- **Normal distribution**- typicall known as the bell-curve where an average will be in the middle indicated by larger frequency of that value occuring compared to the lower/higher ends where there's less values occuring
+	- TO find more explicit results, use **mean** (average) and **standard deviation** (the spread of results)
+	- **SKewed distribution**- having the graph being asymmetrical where one side has more frequency than the other- if more on right it is positively skewed and left is negative skewed (when the tail is on that side)
