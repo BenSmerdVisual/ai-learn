@@ -4,59 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "69a812b2cd8c8bed",
+        "id": "deb6f09b7696de03",
         "type": "tabs",
         "children": [
           {
-            "id": "e53ad5d43afebe74",
+            "id": "1a582eb9128c197a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hugging Face Course.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "30f4cf9a1caca238",
+            "id": "ba62ad6fef71daf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew Ng.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d61bef504d67501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codecademy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8df4015ddde08c24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fast.ai Deep Learning.md",
+                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26365bf193740d51",
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fast.ai Deep Learning.md",
+                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fast.ai Deep Learning.md",
+                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fast.ai Deep Learning.md"
+                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md"
               }
             }
           }
@@ -184,11 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8df4015ddde08c24",
+  "active": "ba62ad6fef71daf2",
   "lastOpenFiles": [
+    "Codecademy/Fundamentals of AI.md",
+    "Machine Learning Specialization/Week 1/Introduction to ML.md",
+    "Machine Learning Specialization/Week 1",
+    "Machine Learning Specialization",
+    "HuggingFace/NLP.md",
+    "HuggingFace",
+    "Machine Learning Specialization.md",
+    "Hugging Face Course.md",
+    "Andrew Ng/AI For Everyone.md",
+    "Fast.ai/Deep Learning For Coders.md",
+    "Fast.ai",
     "Codecademy.md",
-    "Fast.ai Deep Learning.md",
+    "Codecademy",
     "Andrew Ng.md",
-    "Hugging Face Course.md"
+    "Andrew Ng"
   ]
 }

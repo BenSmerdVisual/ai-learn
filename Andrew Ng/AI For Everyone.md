@@ -1,4 +1,3 @@
-# AI FOR EVERYONE
 # Week 1- Introduction
 - **ANI**- Artificial narrow intelligence- doing one guided version of AI- smart speaker, self-driving, web search, AI in farming and factories- have one trick about it- one specific task
 - **AGI**- Artifical General Intelligence- build AI to do anything a human can do and do more than what a human can do
