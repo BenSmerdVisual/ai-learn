@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a0d46429fbb68e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Andrew Ng/Generative AI For Everyone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f30e2b08b2d420ad",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md",
+                "file": "Andrew Ng/Generative AI For Everyone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md",
+                "file": "Andrew Ng/Generative AI For Everyone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md"
+                "file": "Andrew Ng/Generative AI For Everyone.md"
               }
             }
           }
@@ -159,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba62ad6fef71daf2",
+  "active": "a0d46429fbb68e88",
   "lastOpenFiles": [
-    "Andrew Ng/AI For Everyone.md",
     "Machine Learning Specialization/Week 1/Introduction to ML.md",
+    "Andrew Ng/Generative AI For Everyone.md",
+    "Andrew Ng/AI For Everyone.md",
     "Codecademy/Fundamentals of AI.md",
     "Machine Learning Specialization/Week 1",
     "Machine Learning Specialization",

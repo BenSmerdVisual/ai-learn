@@ -1,0 +1,25 @@
+## What is Generative AI
+- AI similar to chatGPT
+- **Generatve AI**- produce high quality content, specifically text, images and audio
+- Becoming a lot cheaper to build AI applications
+- **How it works**- You can have supervised learning (labelling the input for a specific output)
+	- Generative AI is separate from supervised, unsupervised and reinforcement learning
+	- Genereative AI is built from supervised learning- still needs large amounts of data similar to the supervised learning
+	- **Large Language Models (LLMs)**- text generation process being able to create sentences
+		- Using supervised learning to repeatedly predict the next word by having many input and being able to identify the most relevant output based on the dataset
+		- Using a lot of data there is hundreds of billions of word variances
+		- **hallucination**- LLM can make up information to fit the need to return an output- can also sound really certain on the answer even though it is wrong which an decieve the user
+- **General purpose**- 
+	- Good for writing coherent explanations and ideas based on the prompt- also really good for translating languages (but struggles a bit with more context of languages and slang/formal words) 
+	- Can read text to be able to provide a response for something like a summary in certain amount of words, semantic observation- it can proofread over some information and make sure the english asnd spelling is correct- being able to read the message from someones and then determine which department or person is best suited to answer the message- good for analysing the messages and then being also able to provide analytical visualisaton based on the observation from the LLM analysis
+	- Chatting to be able to have conversation with a user, especially for things like taking orders or providing even more information after a chat has more details given throughout the chat- specialisation chatbot can help by having specific knowledge about a certain domain (travel, sports etc) and it gets all its data just on those domains- can have *human-in-the-loop* for a chatbot cycle as they can read over the chat created by the chatbot to make sure it's correct information- can also use the robots for triaging to sort the requests to go to specific people/bots
+- **What LLMs can and cant do**- the expectations and limitations
+	- **Can**- Give more detail about a specific context as it has more knowledge than a human on certain topic
+		- Works best with unstructured data as these are text, images, audio, video
+	- **Can't**- There is knowledge cutoffs as the amount of data can be only up to a specific date, and anything afer that date it would not know about it. LLM can make up things *hallucinations* to just provide a response to the user and makes it seem like it is real through how it presents its information
+		- THe content length of the input and output is limited, so this results in more separate prompting which may ruin the context of the overall problem wanting to be solved
+		- Doesn't work well with strucured (tabular) data as an input if it isn't specific enough
+		- LLM can produce Bias and toxicity which is based on the internet stereotypes and this can be negative and toxic
+- **Image generation**- 
+	- **Diffusion Model (supervised learning)**- find pictures of the specific input (apple, cat etc) and uses them as their data with the label of each object
+		- Gradually removes any picture noise to be able to create a clearer picture based on the data set by constantly updating the picture by removing the noise and working its way to a clearer picture
