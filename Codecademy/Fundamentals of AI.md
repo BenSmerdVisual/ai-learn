@@ -24,3 +24,10 @@
 	- **Normal distribution**- typicall known as the bell-curve where an average will be in the middle indicated by larger frequency of that value occuring compared to the lower/higher ends where there's less values occuring
 	- TO find more explicit results, use **mean** (average) and **standard deviation** (the spread of results)
 	- **SKewed distribution**- having the graph being asymmetrical where one side has more frequency than the other- if more on right it is positively skewed and left is negative skewed (when the tail is on that side)
+	- **Median or IQR**- Finding the value that represents the actual value when the data is skewed
+		- **Median** the middle value from a data set when the data is arranged in a sequential order (smallest to largest), its the middle (50th percentil or second quartile (Q2))
+		- **Interquartile range (IQR)**- a quartile is a marker for a quarter of the data- first quartile (25%), second quartile (50%) and thid quartile is (75%). **IQR** is the difference between Q3 and Q1 (Q3-Q1) which marks the range for the middle of data
+	- **Outliers and Robust measures**- larger numbers that skew the data, these are outliers because there are very few of them and their inclusion changes the mean drastically, so mean isn't the best representation when there are outliers than can heavily skew the data
+		- Median and IQR are not heavily influenced by extreme values so that means they are **robust** which means they are a better choice to measure the center and spread of a distribution that is skewed or has outliers.
+	- **Aggregate data**- This is the mode, which is the frequency of the data- how often a value occurs within the data set. This can show where there is a high frequency of a data which can be representation of a certain occurences, when there are multiple modes this means the analaysis is *bimodal* 
+	- **Variable Relationships**- 
