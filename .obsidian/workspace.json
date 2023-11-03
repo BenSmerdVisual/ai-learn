@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codecademy/Machine Learning Career Path/Lesson 1.md",
+                "file": "Codecademy/Fundamentals of AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codecademy/Machine Learning Career Path/Lesson 1.md",
+                "file": "Codecademy/Fundamentals of AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codecademy/Machine Learning Career Path/Lesson 1.md"
+                "file": "Codecademy/Fundamentals of AI.md"
               }
             }
           }
@@ -160,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3211f5721c11ab51",
+  "active": "1e927ac7a9898138",
   "lastOpenFiles": [
-    "Codecademy/Fundamentals of AI.md",
     "Codecademy/Machine Learning Career Path/Lesson 1.md",
+    "Codecademy/Fundamentals of AI.md",
     "Codecademy/Machine Learning Career Path",
     "Andrew Ng/Generative AI For Everyone.md",
     "Machine Learning Specialization/Week 1/Introduction to ML.md",
