@@ -23,3 +23,24 @@
 - **Image generation**- 
 	- **Diffusion Model (supervised learning)**- find pictures of the specific input (apple, cat etc) and uses them as their data with the label of each object
 		- Gradually removes any picture noise to be able to create a clearer picture based on the data set by constantly updating the picture by removing the noise and working its way to a clearer picture
+- **Software applications using generative AI**- Being able to produce chat like machine learning that can talk to the user about input data, rather than using chatgpt for general, making it more specific to a buiness
+	- Using things like a prompt based development, can use a trained model that can see the sentiment based on general words to determine if positive or negative, rather than having to build own sort of business based sentiment analyzer
+	- Important in the lifecycle of generative AI process to return feedback where a prompt may be incorrect and then use that inorrect output to improve the input/ouput and train more from it
+	- **Cost intuition using LLM**- 
+		- **Token**- a part of text which is important- names or adverds, sometimes parts of words program-ming split into 2 tokens: this is how the LLM can differentiate the words and do algorithms on them
+	- **Methods beyond regular prompting**
+		- **Retrieval Augmented Generation (RAG)**- Giving the LLM more information from your company to be able to search that information- and then incorporating the returned text into an updated prompt- this updated prompt them goes into the LLM where the prompt will have first part "use this text to answer the question at end--- {insert text back from the document} {insert users prompt question}" - maybe the specific section or a summary of that block of text
+		- **Fine-Tuning**- Having done the pretraining (input the training data to be able to have labels so can have outputs match the input based on the label). **fine tuning** is using a smaller data set to be able to fine tune something if it requires extremely specific sort of output, you dont want massive data sets that can provide responses that may not be relevant to context
+			- Good for if you want specific sort of summaries or structure in  specific style. Just specifying the LLM to be specific
+			- Good for if the task is more complex than just writing a simple prompt to then sift through a lot of data to provide a response, while the fine tuning doesnt as heavily rely on such a specific prompt
+			- Be trained on extremely specific knowledge- things like business jargon (coding for example has specific jargon and key words)
+		- **Pretraining own LLM**- Usually big companies do it but are very expensive
+			- Take a lot of money, time and data and opensource has helped push these along for specific domains
+		- **Choosing an LLM**- The larger the parameter LLM size means it has wider knowledge of the world and can provide more wide variety in information and specificity
+	- **How LLM learn to follow instructions and not just provide text back**- 
+		- Can train the LLM on specific responses to specific input
+		- **Reinforcement learning from human feedback (RLHF)**- Helpful, honest and harmless- Train answer quality reward model- Receive responses and determine BY HUMANS if they are good responses that were actually helpful in a real human scenario. Then get it training on a lot more responses that get high scores
+			- It is training on responses that humans gave feedback to as being good or bad- provide a reinforcement cycle of doing it 
+	- **Tools and agents used**- 
+		- Not good at precise maths, so can use a CALCULATOR tool to do the maths
+		- Can use agentst to breakdown individual tasks (like searching a website, booking a ticket etc) through separate APIs
