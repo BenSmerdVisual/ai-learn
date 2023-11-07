@@ -44,3 +44,6 @@
 	- **Tools and agents used**- 
 		- Not good at precise maths, so can use a CALCULATOR tool to do the maths
 		- Can use agentst to breakdown individual tasks (like searching a website, booking a ticket etc) through separate APIs
+- **Generative AI in business**- 
+	- Automating tasks that can replace tedious smaller tasks that humans do
+	- Augmentation by helping humans with tasks
