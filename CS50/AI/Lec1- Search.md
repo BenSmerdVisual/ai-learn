@@ -1,0 +1,17 @@
+- **Search problem**- using searching techniques to achieve a result--like a puzzle
+- **Agent**- entity that perceives an environment and can act on that environment through actions
+- **State**- a configuration of the agent in the evironment- kind of the different steps of getting from the *initial state* to the *final state*, what actions need to be applied from the initial to get to the goal (end)
+- **Actions**- choices that are made in a state- can be seen a sfunction that takes a state as parameter and within the function an action is acted upon the state for the state to be updated to the next state
+- **Transition model**- the description of what state results from performing a applicable state on it- the function of result takes a state and action as parameters and returns the state reslting from the performance of the action
+- **State space**- the set of all states reachable from the initial state by any sequence of actions- basically all the outcomes that can happen from acting any action on the state (all possibilities)
+- **Goal test**- way to determine whether a given state is a goal state- determine that the current state of the probleem is the state equaling that the goal has been achieved- there may be mutliple goals or singular
+- **Path cost**- numeraical cost associated with a given path- basically the measurement to assess how one path from initial to goal is bettter than another one, based on the cost of the numerical measurement associated (km traveled in a route mapper)
+- **Optimal solution**- the best way to get from initial state to goal state that has the most optimal path cost compared to other paths
+- **Node**- data structure that will keep track of: state, parent (state/node before this current node), action (the action applied to the parent to get to current node), path cost (from initial state to the current node)
+- Options arise once the state is acted upon by a certain action and then we can see what the optuons have arisen based on that action and can progress to the next
+- **Approach**- 
+	- Start with a frontier that contains the intiial state
+	- Repeat- if frontier is empty then no solution otherwise remove a node from the frontier, if the frontier node contains the goal state, then we found the solution (using checks) and it is done
+	- The frontier gets updated when the current node has been checked as the only one that works from the initial state and it ISNT the goal node
+	- Can have multuiple nodes in the frontier if they are children of the most optimal node from the initial node state
+	- Can also go in both directions from node to node if need to
