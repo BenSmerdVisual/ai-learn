@@ -47,3 +47,9 @@
 - **Generative AI in business**- 
 	- Automating tasks that can replace tedious smaller tasks that humans do
 	- Augmentation by helping humans with tasks
+- **Generative AI in society**-
+	- Does have bias based off the training data- especially if it's based off the internet
+	- important to do the RLHF to reduce any bias information
+- **Artifitial general intelligence (AGI)**- AI that can do any intellectual task that a human can do eg driving a car, painting a picture like a human
+	- Essentially be able to create an idea and then do the same how humans do it where they work with the idea in some sort of action (painting, creating, researching etc)
+- **Build more intelligent world**- using AI to build a better world with more intelligence

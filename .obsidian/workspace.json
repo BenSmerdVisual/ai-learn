@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bf75ef3c9edae6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50/AI/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -149,8 +161,11 @@
   },
   "active": "3211f5721c11ab51",
   "lastOpenFiles": [
-    "Codecademy/Fundamentals of AI.md",
+    "CS50/AI/Lecture 1.md",
     "Andrew Ng/Generative AI For Everyone.md",
+    "CS50/AI",
+    "CS50",
+    "Codecademy/Fundamentals of AI.md",
     "Codecademy/Machine Learning Career Path/Lesson 1.md",
     "Codecademy/Machine Learning Career Path",
     "Machine Learning Specialization/Week 1/Introduction to ML.md",
