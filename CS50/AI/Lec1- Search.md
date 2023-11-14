@@ -15,3 +15,21 @@
 	- The frontier gets updated when the current node has been checked as the only one that works from the initial state and it ISNT the goal node
 	- Can have multuiple nodes in the frontier if they are children of the most optimal node from the initial node state
 	- Can also go in both directions from node to node if need to
+- **Revised Approach**- 
+	- Start with frontier containing initial state
+	- Start with an empty explored set
+	- Repeat- if frontier is empty = no solution, remove node from frontier, if node contains goal state then = solution, add node to explored set
+	- Use a stack- **depth-first-search** (last in, first out) data type--- this is good to traverse a path until there is no result, and then can traverse the alternative paths as they are next in line, because the latest in will be first out for each pathway node--- potential more saving in memory as it doesnt cover everything to find the solution, hpowever it may have to go through every branch before it can find the solution wghich could be costly
+	- Use a queue- **breadth-first-search** (first in first out data type)-- this traverses the paths by each sequential node so each branch will go by at a node of each branch at a time, rather where the stack goes a full branch at a time, the queue goes a section of the branch and then the next section of a branch and back to the other branch and next section etc-- could be very cost heavy as it may cover almost every single option, however it may hit the solution earlier because it increments all branches and the solution may be short
+- **Uninformed Search**- search strategies that use no specific knowledge for the problem, it is just a sort of a "do as you go" type search- how the depth-first-search and breadth-fiest-search are as they are a check each node and if its right its right type of search
+
+## Informed Search
+- **Informed search**- using knowledge sepcific to the problem to find a solution
+- **Greedy best-first search**- search algorithm that expands the node that is closes to the goal as estimated by heuristic function h(n) (estimating how close we are to the goal)
+	- **Manhatten distance**- geographically determine how close a node is to the goal, so can take an estimate for which node is closer to the goal than others geographically
+		- Using the guessing of each node as to how far they from the goal, you can use that to determine which is the next node (as you would choose the next node that is closer to the goal based on the heuristic estimation)- this is a more informed decision as you would most likely choose the closer node--can obviously be wrong rhough as geographically the guess may not take into account obstacles as obstacles may not be present
+		- Because its greedy it means that it chooses the best solution at present without taking other things into cosidertion (eg choosing the closes node next without taking into account obstacles)
+- **A* search**- Search algorithm that expands node with loest value g(n) + h(n), g(n) = cost to reach node, h(n) = estimated cost to goal
+	- Combining the cost of how many steps to reach the goal and the heuristic estimate away from the goal to determine most optimal soltuon--- adding the steps taken and whats left to find the least
+	- Can find the way for the most optimal which couyld be the shortest and then as soon as that path starts getting more steps than any previous splits in the road, it can start taking the other path as it may now be less steps that the currently taken path (this helps if a path seemed shorter at first but then starts to become further)--- good at stopping a path before it gets too long-- however can end up covering a lot of ground
+- **Adversial Search**- when there are competing moves to reach a goal
