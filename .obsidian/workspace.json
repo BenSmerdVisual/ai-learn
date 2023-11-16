@@ -1,175 +1,175 @@
 {
-    "main": {
-        "id": "36988657f5f6ee9e",
-        "type": "split",
+  "main": {
+    "id": "36988657f5f6ee9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c17c0e68f307ab44",
+        "type": "tabs",
         "children": [
-            {
-                "id": "e9650b5dbd6e5b92",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "0b2a1612b7ee6a68",
-                        "type": "leaf",
-                        "state": {
-                            "type": "markdown",
-                            "state": {
-                                "file": "Codecademy/Fundamentals of AI.md",
-                                "mode": "source",
-                                "source": false
-                            }
-                        }
-                    }
-                ]
+          {
+            "id": "8e1e50c327fc1223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50/AI/Lec1- Search.md",
+                "mode": "source",
+                "source": false
+              }
             }
-        ],
-        "direction": "vertical"
-    },
-    "left": {
-        "id": "9cbea13b152b5f00",
-        "type": "split",
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cbea13b152b5f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee8b9b6dacb129b",
+        "type": "tabs",
         "children": [
-            {
-                "id": "aee8b9b6dacb129b",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "c24afdaf8790bd4a",
-                        "type": "leaf",
-                        "state": {
-                            "type": "file-explorer",
-                            "state": {
-                                "sortOrder": "alphabetical"
-                            }
-                        }
-                    },
-                    {
-                        "id": "d29d48203acf5a07",
-                        "type": "leaf",
-                        "state": {
-                            "type": "search",
-                            "state": {
-                                "query": "",
-                                "matchingCase": false,
-                                "explainSearch": false,
-                                "collapseAll": false,
-                                "extraContext": false,
-                                "sortOrder": "alphabetical"
-                            }
-                        }
-                    },
-                    {
-                        "id": "87e220204f9655dd",
-                        "type": "leaf",
-                        "state": {
-                            "type": "bookmarks",
-                            "state": {}
-                        }
-                    }
-                ]
+          {
+            "id": "c24afdaf8790bd4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
-        ],
-        "direction": "horizontal",
-        "width": 200,
-        "collapsed": true
-    },
-    "right": {
-        "id": "26365bf193740d51",
-        "type": "split",
+          },
+          {
+            "id": "d29d48203acf5a07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87e220204f9655dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "26365bf193740d51",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbfa9f83115448e4",
+        "type": "tabs",
         "children": [
-            {
-                "id": "bbfa9f83115448e4",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "ee04d6a5f68221ee",
-                        "type": "leaf",
-                        "state": {
-                            "type": "backlink",
-                            "state": {
-                                "file": "Codecademy/Fundamentals of AI.md",
-                                "collapseAll": false,
-                                "extraContext": false,
-                                "sortOrder": "alphabetical",
-                                "showSearch": false,
-                                "searchQuery": "",
-                                "backlinkCollapsed": false,
-                                "unlinkedCollapsed": true
-                            }
-                        }
-                    },
-                    {
-                        "id": "aec8f268cd750b41",
-                        "type": "leaf",
-                        "state": {
-                            "type": "outgoing-link",
-                            "state": {
-                                "file": "Codecademy/Fundamentals of AI.md",
-                                "linksCollapsed": false,
-                                "unlinkedCollapsed": true
-                            }
-                        }
-                    },
-                    {
-                        "id": "4640611282f2cb5f",
-                        "type": "leaf",
-                        "state": {
-                            "type": "tag",
-                            "state": {
-                                "sortOrder": "frequency",
-                                "useHierarchy": true
-                            }
-                        }
-                    },
-                    {
-                        "id": "a8dee2a1a419ae00",
-                        "type": "leaf",
-                        "state": {
-                            "type": "outline",
-                            "state": {
-                                "file": "Codecademy/Fundamentals of AI.md"
-                            }
-                        }
-                    }
-                ]
+          {
+            "id": "ee04d6a5f68221ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS50/AI/Lec1- Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
-        ],
-        "direction": "horizontal",
-        "width": 300,
-        "collapsed": true
-    },
-    "left-ribbon": {
-        "hiddenItems": {
-            "switcher:Open quick switcher": false,
-            "graph:Open graph view": false,
-            "canvas:Create new canvas": false,
-            "daily-notes:Open today's daily note": false,
-            "templates:Insert template": false,
-            "command-palette:Open command palette": false
-        }
-    },
-    "active": "0b2a1612b7ee6a68",
-    "lastOpenFiles": [
-        "Machine Learning Specialization/Week 1/Introduction to ML.md",
-
-        "CS50/AI/Lec1- Search.md",
-        "Andrew Ng/Generative AI For Everyone.md",
-        "CS50/AI",
-        "CS50",
-        "Codecademy/Fundamentals of AI.md",
-        "Codecademy/Machine Learning Career Path/Lesson 1.md",
-        "Codecademy/Machine Learning Career Path",
-        "Andrew Ng/AI For Everyone.md",
-        "Machine Learning Specialization/Week 1",
-        "Machine Learning Specialization",
-        "HuggingFace/NLP.md",
-        "HuggingFace",
-        "Machine Learning Specialization.md",
-        "Hugging Face Course.md",
-        "Fast.ai/Deep Learning For Coders.md",
-        "Fast.ai",
-        "Codecademy.md",
-        "Codecademy",
-        "Andrew Ng.md",
-        "Andrew Ng"
-    ]
+          },
+          {
+            "id": "aec8f268cd750b41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS50/AI/Lec1- Search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4640611282f2cb5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8dee2a1a419ae00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS50/AI/Lec1- Search.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c24afdaf8790bd4a",
+  "lastOpenFiles": [
+    "Pytorch",
+    "Untitled.md",
+    "CS50/AI/Lec1- Search.md",
+    "Codecademy/Fundamentals of AI.md",
+    "Machine Learning Specialization/Week 1/Introduction to ML.md",
+    "Andrew Ng/Generative AI For Everyone.md",
+    "CS50/AI",
+    "CS50",
+    "Codecademy/Machine Learning Career Path/Lesson 1.md",
+    "Codecademy/Machine Learning Career Path",
+    "Andrew Ng/AI For Everyone.md",
+    "Machine Learning Specialization/Week 1",
+    "Machine Learning Specialization",
+    "HuggingFace/NLP.md",
+    "HuggingFace",
+    "Machine Learning Specialization.md",
+    "Hugging Face Course.md",
+    "Fast.ai/Deep Learning For Coders.md",
+    "Fast.ai",
+    "Codecademy.md",
+    "Codecademy",
+    "Andrew Ng.md",
+    "Andrew Ng"
+  ]
 }
