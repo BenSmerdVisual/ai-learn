@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8418363a6b3229fc",
+        "id": "e9650b5dbd6e5b92",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf75ef3c9edae6e",
+            "id": "0b2a1612b7ee6a68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/AI/Lec1- Search.md",
+                "file": "Codecademy/Fundamentals of AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/AI/Lec1- Search.md",
+                "file": "Codecademy/Fundamentals of AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/AI/Lec1- Search.md",
+                "file": "Codecademy/Fundamentals of AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/AI/Lec1- Search.md"
+                "file": "Codecademy/Fundamentals of AI.md"
               }
             }
           }
@@ -147,16 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bf75ef3c9edae6e",
+  "active": "0b2a1612b7ee6a68",
   "lastOpenFiles": [
-    "Andrew Ng/Generative AI For Everyone.md",
+    "Machine Learning Specialization/Week 1/Introduction to ML.md",
     "CS50/AI/Lec1- Search.md",
+    "Andrew Ng/Generative AI For Everyone.md",
     "CS50/AI",
     "CS50",
     "Codecademy/Fundamentals of AI.md",
     "Codecademy/Machine Learning Career Path/Lesson 1.md",
     "Codecademy/Machine Learning Career Path",
-    "Machine Learning Specialization/Week 1/Introduction to ML.md",
     "Andrew Ng/AI For Everyone.md",
     "Machine Learning Specialization/Week 1",
     "Machine Learning Specialization",
