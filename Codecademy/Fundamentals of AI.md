@@ -30,4 +30,27 @@
 	- **Outliers and Robust measures**- larger numbers that skew the data, these are outliers because there are very few of them and their inclusion changes the mean drastically, so mean isn't the best representation when there are outliers than can heavily skew the data
 		- Median and IQR are not heavily influenced by extreme values so that means they are **robust** which means they are a better choice to measure the center and spread of a distribution that is skewed or has outliers.
 	- **Aggregate data**- This is the mode, which is the frequency of the data- how often a value occurs within the data set. This can show where there is a high frequency of a data which can be representation of a certain occurences, when there are multiple modes this means the analaysis is *bimodal* 
-	- **Variable Relationships**- 
+	- **Variable Relationships**- Analyzing a relationship between two numeric values
+		- **Scatter plot**- being able to see the representation of any sort of correlation between two numeric values on the x and y axis
+		- **Correlation**- when the dots are formed closer together in a sort of group, it forms a line which means there is a stronger correlation which = there is more significance in the impact of what you're trying to measure
+		- **Correlation coefficient**- on a scale of -1 to +1 and this tells two things
+			- **Direction**-  
+				- If positive then it's a positive coefficient meaning that higher values in one are associated with higher values in the other.
+				- If negative then it's a negative coefficient meaning that there is a higher value that are associated with lower values in the other/
+			- **Strength**-
+				- The farther the coefficient is from 0, the stronger the relationship and the more points in the a scatter plot that look like a line
+				- If it's closer to the whole number 1 then it feels 'stronger relationship' if its closer to 0 then it's 'weaker relationship'
+			- Examples: 
+				- 0.74 = a positive and moderately strong relationship
+				- -0.12= a negative and weak relationship
+				- -0.83 = a negative and strong relationship
+## Data Visualizations
+Numerous steps in converting data into a data visualzation to be able to understand it better and clearer
+- **Choose chart type**- Needs to be able to clearly communicate the relationship between data you are trying to represent. COuld be showing a comparsion between categorical or how a continous value can be predicted
+- **Amount variables**- need to see how many variables are being compared
+	- **Univariate Charts**- Singular variable has one changing variable- best for COUNT or DISTRIBUTION as a form of visualization
+		- **Bar graph**- Good for COUNT of a variable and can compare the amount between different categories in it X and Y axis
+		- **Histogram**- Good showing the normal/skewed distrubution 
+		- **Box plot**- can show more of a percentile as well
+		- **Map**- could be useful for when you can have an image related topic eg (an amount of cheese sold in parts of italy- have dots on the map for each location)
+	- **Bi and Multivariate charts**- 

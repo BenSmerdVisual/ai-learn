@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/AI/Lec1- Search.md",
+                "file": "Codecademy/Fundamentals of AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "26365bf193740d51",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/AI/Lec1- Search.md",
+                "file": "Codecademy/Fundamentals of AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/AI/Lec1- Search.md",
+                "file": "Codecademy/Fundamentals of AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/AI/Lec1- Search.md"
+                "file": "Codecademy/Fundamentals of AI.md"
               }
             }
           }
@@ -146,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c24afdaf8790bd4a",
+  "active": "8e1e50c327fc1223",
   "lastOpenFiles": [
+    "CS50/AI/Lec1- Search.md",
     "Pytorch",
     "Untitled.md",
-    "CS50/AI/Lec1- Search.md",
     "Codecademy/Fundamentals of AI.md",
     "Machine Learning Specialization/Week 1/Introduction to ML.md",
     "Andrew Ng/Generative AI For Everyone.md",
