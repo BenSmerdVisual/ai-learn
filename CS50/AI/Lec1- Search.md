@@ -33,3 +33,13 @@
 	- Combining the cost of how many steps to reach the goal and the heuristic estimate away from the goal to determine most optimal soltuon--- adding the steps taken and whats left to find the least
 	- Can find the way for the most optimal which couyld be the shortest and then as soon as that path starts getting more steps than any previous splits in the road, it can start taking the other path as it may now be less steps that the currently taken path (this helps if a path seemed shorter at first but then starts to become further)--- good at stopping a path before it gets too long-- however can end up covering a lot of ground
 - **Adversial Search**- when there are competing moves to reach a goal
+	- **Minimax**- Where there are 3 outcomes- (-1 = player 1 wins, 0= draw, 1 = player 2 wins)
+		- MAX- player 2 is trying to maximize the score (>=1 = they win)
+		- MIN- player 1 is trying to minimise the score (<=-1 = they win)
+		- Kind of like a tree with each branch offering the potential move scores
+		- Each turn the AI for each player will calculate the current state and then the future state if they move in that spot in tic-tac-to and if they are closer to their score direction then they will play that move, if its further from their score direction they will not play that move--- kind of seeing the move and then what can happen next and then making the correct chocie to be CLOSER to their score direction (rather draw=0 THAN lose=opposite direction)
+		- Essentially its assessing the current STATE of the game and viewing what the next possible STATE potentials are and then seeing if they are allowing for a loss or draw (draw state is favourable for opening rounds as well) but MAINLY looking for the potential path on the branch which goes more in their score direction (positive or negative)
+		- **Optimisation**- looking at two layers deep as to what the next players most optimal choice (based on the best scenario) then can determine what the current players best choice is as well
+			- Optimsing even more is by being able to check a branch based on its earlier choices if they are alreadyy better than the previous branch
+			- **Alpha-Beta pruning**- getting rid of branches earler by comparing the choice before traversing that branch completely, based on the rpevious branch, this eliminates having to go through everything
+	- **Depth-limited minimax**- not looking unlimited potential moves ahead, it looks a specific amount ahead- saves ALOT of computation and time
