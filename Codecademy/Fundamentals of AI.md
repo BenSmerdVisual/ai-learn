@@ -53,4 +53,35 @@ Numerous steps in converting data into a data visualzation to be able to underst
 		- **Histogram**- Good showing the normal/skewed distrubution 
 		- **Box plot**- can show more of a percentile as well
 		- **Map**- could be useful for when you can have an image related topic eg (an amount of cheese sold in parts of italy- have dots on the map for each location)
-	- **Bi and Multivariate charts**- 
+	- **Bi and Multivariate charts**- show relationship between two or more variables
+		- **Scatter plot**- one variable on x axis and other on y axis and can see comparison based on the dots on the axis and this is easy to see spatial relationship, only works for numeric variables not categorical
+		- **Line chart**- variable changing over time with multiple lines for different variables as well and the line changes direction based on the value input
+		- **Map**- Can have multiple other factors shown on the map besides just the value, things like topgoraphy and other varia bles
+- **Aesthetic properties- 
+	- **the menu**- further clarity to visualise details by highlighting relationship of data with more visual things like- position, size, shape, color/pattern- things like having circles to show each companies share worth and circles are larger based on more share size etc
+	- **information redundency**- make sure that the extra aesthetic properties aren't redundant by having the actual measurements measuring the same thing that the aesthetic is- eg the y axis is measuring the amount of stock worth so the sizer of the circles is redundant (as examplea bove)
+- **Consider the audience**- Requiring the right contecxt of data visualisation for the rightr people as anything that may not bve relevant to the data or person reading it can make it harder to understand what is going on
+- **Annotations**- important to add annotations and lavbeling when things may be confusing as this adds context and makes things more understandable. Also important to remove unnecessary visuals or things that make the chart more complex/unnecessarily complicated
+- **Color**- have consistent color that can represent the data (if its comparison, categorical or scaling) these are important to make visuals more representative
+- **Axes**- not making the axes numbers too large and too little
+
+## Data Analyses
+Different types of data analysis can draw different types of conclusions, important to distinguish the different between ways of analyzing to get the correct conclusion for the problem
+- **Descriptive Analysis**- When there are many ways to be able to describe the topic of choice with descriptive words
+	- Good for a basic understanding of the data
+	- describing, summarizing and visualise the data so can see a pattern emerge
+	- **Measures**- Descriptives/summary statistics
+		- **Central tendancy**- mean, mode, median
+		- **Spread**- range, quartiles, variance, standard deviation, distribution
+- **Exploratory analysis**- Looking for relationship between variables in dataset
+	- Can find patterns but cannot say WHY things happen between the variables
+	- Can add in graphs with the two variables like line graphs etc and start seeing any sort of patterns emerging, however still doesn't mean causation
+	- **Clustering**- unsupervised learning can put untagged data into clusters (groups) based on similarities in the data, can help us see relationships between multiple variables at once
+- **INferential analysis**- Using a sample pool size to determine the overall result for the general populatiuon
+	- Good to do when needing things done quick and can do with a decent sized amount of people
+	- Basically just test with A and test with B with two groups ands ee which is best
+- **Causal Analysis**- Correlation doesnt mean causation but usiong this its specifically identifying the causation
+- **Causal analysis with observational data**- when its impossible to do a causal experiemtn, can look at proper data that is being done throughout day-to-day life in observations.
+- **Predictive analysis**- uses supervised machine learning to try predict things like predictive text etc
+	- can use things like linear regression as this is a graph line that basically will continue to show the direction of whatever variables used
+	- Use historical data to predict can also be tricky as many outside variables can change things
