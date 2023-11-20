@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/AI/Lec1- Search.md",
+                "file": "Andrew Ng/Finetuning LLM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f30c86f7f4fa4660",
+            "id": "f3582dbe209062a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/AI/Lec2- Knowledge.md",
+                "file": "Andrew Ng/LLM Semantic Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/AI/Lec2- Knowledge.md",
+                "file": "Andrew Ng/LLM Semantic Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/AI/Lec2- Knowledge.md",
+                "file": "Andrew Ng/LLM Semantic Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/AI/Lec2- Knowledge.md"
+                "file": "Andrew Ng/LLM Semantic Search.md"
               }
             }
           }
@@ -160,13 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f30c86f7f4fa4660",
+  "active": "f3582dbe209062a4",
   "lastOpenFiles": [
-    "CS50/AI/Lec1- Search.md",
-    "CS50/AI/Lec2- Knowledge.md",
     "Andrew Ng/Finetuning LLM.md",
+    "Andrew Ng/LLM Semantic Search.md",
+    "CS50/AI/Lec2- Knowledge.md",
     "Machine Learning Specialization/Week 1/Introduction to ML.md",
     "Codecademy/Fundamentals of AI.md",
+    "CS50/AI/Lec1- Search.md",
     "Pytorch",
     "Andrew Ng/Generative AI For Everyone.md",
     "CS50/AI",
