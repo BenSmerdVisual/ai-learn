@@ -10,3 +10,28 @@
 	-  While supervised learns from labeled data that we have put in, unsupervised does not learn from any labels- rather the learning will find something interesting in the unlabeled data. Essentially WANTING the algorithm to find something itself, find patterns
 	- **Clustering**- automatically places unlabelled data into clusters when it may find groups of data- the groups would be based on similarities for each node in that cluster- each cluster would be some sort of variance which would have multiple characteristics
 	- Finding structure within the data itself, without any sort of labeling
+
+## Linear Regression
+- Supervised model as the data has been given the labels of what it is looking for (labels on the axes)
+- The **regression model** predicts numbers based on the previious data- the linear line of best fit goes through the data to find the split and because its linear it can continue up with any sort of increase on values (good for continous as the line of best fit will continue based on the values direction etc)- however this is **extrapolation** where based on the in-range data you are making an estimate for future ranges (risky)
+- **Training set**- the data that is used to train the model, this is the data that the model will be trained on to make the future predictions based on this input data
+- The training set then gets put into the learning algorithm and then creates a function for use to get the input into and then return an output
+- **Notation**- Commonly used in formulas
+	- 'x' = the input variable
+	- 'y' = the output/target variable
+	- 'm' = number of training examples
+	- 'f' = function (where the training data has created a learning algorithm and is useable on input data)
+	- 'y-hat'= the prediction outcome from a function
+	- The 'y-hat' is the predicted outcome from the function while the 'y' is the target outcome
+	- '(x, y)' = single training example (x number is the x axis and y number is the y axis)- this is finding a value at cross-intersection of the two numbers
+	- '(x(i), y(i))' = ith training example (1st, 2nd, 3rd) this is just an index for the row of the table- eg x(23) means in the x table look at the 23rd index and what that value is there
+- **One variable linear regression**- 
+	- Single input variable (feature) (x) and this is univariate linear regression
+	- The function formula is f(x) = wx + b - where the (x) is the input to the function- the f(x) then results in y-hat
+		- 'w' = weight- the slope/coefficient and irepresents the depdendent vairble (variable trying to predict) changes for when there is a one unit-increase in the IV- the weight adjusts the angle of the line, higher weight means steeper slope= stronger relationship between IV and DV. weight of 0 would mean no relationship resulting horizontal line
+		- 'b' = bias- the intercept and  represents the y-intercept of the line of best fit, represents the value of the DV when all IV are 0- shifts the line up or down, even if no change in IV then DV will still = bias
+		- So calculating the formula where width * x + b will equal to the y-hat, this is the formula that will be making the line, each x is the value that is currently being valued on on the x axis so then the answer is where the dot will intercept on y from the result of the forumla
+	- **Cost function**- 
+		- Calculating the y-hat values minus the true values to find the difference and see how close the estimation was from the tru value
+	- **Cost function intuition**- 
+		- 

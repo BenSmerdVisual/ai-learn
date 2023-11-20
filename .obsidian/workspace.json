@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd852ca0e30cd77",
+        "id": "c17c0e68f307ab44",
         "type": "tabs",
         "children": [
           {
-            "id": "7b8f99d4815b3f65",
+            "id": "8e1e50c327fc1223",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codecademy/Fundamentals of AI.md",
+                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codecademy/Fundamentals of AI.md",
+                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codecademy/Fundamentals of AI.md",
+                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codecademy/Fundamentals of AI.md"
+                "file": "Machine Learning Specialization/Week 1/Introduction to ML.md"
               }
             }
           }
@@ -147,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b8f99d4815b3f65",
+  "active": "8e1e50c327fc1223",
   "lastOpenFiles": [
-    "CS50/AI/Lec1- Search.md",
-    "Untitled.md",
     "Codecademy/Fundamentals of AI.md",
+    "CS50/AI/Lec1- Search.md",
     "Pytorch",
+    "Untitled.md",
     "Machine Learning Specialization/Week 1/Introduction to ML.md",
     "Andrew Ng/Generative AI For Everyone.md",
     "CS50/AI",
