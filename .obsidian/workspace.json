@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew Ng/Finetuning LLM.md",
+                "file": "CS50/AI/Lec1- Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f30c86f7f4fa4660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50/AI/Lec2- Knowledge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew Ng/Finetuning LLM.md",
+                "file": "CS50/AI/Lec2- Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew Ng/Finetuning LLM.md",
+                "file": "CS50/AI/Lec2- Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew Ng/Finetuning LLM.md"
+                "file": "CS50/AI/Lec2- Knowledge.md"
               }
             }
           }
@@ -147,12 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33afddc467a0a75b",
+  "active": "f30c86f7f4fa4660",
   "lastOpenFiles": [
-    "Machine Learning Specialization/Week 1/Introduction to ML.md",
-    "Andrew Ng/Finetuning LLM.md",
-    "Codecademy/Fundamentals of AI.md",
     "CS50/AI/Lec1- Search.md",
+    "CS50/AI/Lec2- Knowledge.md",
+    "Andrew Ng/Finetuning LLM.md",
+    "Machine Learning Specialization/Week 1/Introduction to ML.md",
+    "Codecademy/Fundamentals of AI.md",
     "Pytorch",
     "Andrew Ng/Generative AI For Everyone.md",
     "CS50/AI",
