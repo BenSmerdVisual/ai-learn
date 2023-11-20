@@ -33,5 +33,5 @@
 		- So calculating the formula where width * x + b will equal to the y-hat, this is the formula that will be making the line, each x is the value that is currently being valued on on the x axis so then the answer is where the dot will intercept on y from the result of the forumla
 	- **Cost function**- 
 		- Calculating the y-hat values minus the true values to find the difference and see how close the estimation was from the tru value
-	- **Cost function intuition**- 
-		- 
+		- How far the line of best fit is with its estimates (y-hat) on the line and the difference it is to the actual values plotted (y)- error
+- **Gradient Discent**- 
