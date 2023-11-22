@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c17c0e68f307ab44",
+        "id": "91aff8c6a1ef7600",
         "type": "tabs",
         "children": [
           {
-            "id": "33afddc467a0a75b",
+            "id": "09bf8cde9f40129c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50/AI/Lec1- Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f30c86f7f4fa4660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50/AI/Lec2- Knowledge.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26365bf193740d51",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/AI/Lec2- Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/AI/Lec2- Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS50/AI/Lec2- Knowledge.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f30c86f7f4fa4660",
+  "active": "09bf8cde9f40129c",
   "lastOpenFiles": [
     "Andrew Ng/LLM Semantic Search.md",
-    "CS50/AI/Lec1- Search.md",
     "CS50/AI/Lec2- Knowledge.md",
+    "CS50/AI/Lec1- Search.md",
     "Andrew Ng/Finetuning LLM.md",
     "Machine Learning Specialization/Week 1/Introduction to ML.md",
     "Codecademy/Fundamentals of AI.md",
