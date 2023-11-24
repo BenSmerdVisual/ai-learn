@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew Ng/LLM Semantic Search.md",
+                "file": "CS50/AI/Lec2- Knowledge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f3582dbe209062a4",
+            "id": "7a553fc1f0668903",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/AI/Lec2- Knowledge.md",
+                "file": "Random/Intro to LLM- Andrej Karpathy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew Ng/LLM Semantic Search.md",
+                "file": "Random/Intro to LLM- Andrej Karpathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew Ng/LLM Semantic Search.md",
+                "file": "Random/Intro to LLM- Andrej Karpathy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew Ng/LLM Semantic Search.md"
+                "file": "Random/Intro to LLM- Andrej Karpathy.md"
               }
             }
           }
@@ -158,14 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33afddc467a0a75b",
+  "active": "7a553fc1f0668903",
   "lastOpenFiles": [
-    "Andrew Ng/Finetuning LLM.md",
     "CS50/AI/Lec2- Knowledge.md",
+    "Random/Intro to LLM- Andrej Karpathy.md",
+    "Random",
     "Andrew Ng/LLM Semantic Search.md",
+    "CS50/AI/Lec1- Search.md",
+    "Andrew Ng/Finetuning LLM.md",
     "Machine Learning Specialization/Week 1/Introduction to ML.md",
     "Codecademy/Fundamentals of AI.md",
-    "CS50/AI/Lec1- Search.md",
     "Pytorch",
     "Andrew Ng/Generative AI For Everyone.md",
     "CS50/AI",
@@ -183,7 +186,6 @@
     "Fast.ai",
     "Codecademy.md",
     "Codecademy",
-    "Andrew Ng.md",
-    "Andrew Ng"
+    "Andrew Ng.md"
   ]
 }
