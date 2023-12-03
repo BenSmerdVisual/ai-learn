@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew Ng/LLM Semantic Search.md",
+                "file": "Andrew Ng/Generative AI For Everyone.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew Ng/LLM Semantic Search.md",
+                "file": "Andrew Ng/Generative AI For Everyone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew Ng/LLM Semantic Search.md",
+                "file": "Andrew Ng/Generative AI For Everyone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew Ng/LLM Semantic Search.md"
+                "file": "Andrew Ng/Generative AI For Everyone.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "09bf8cde9f40129c",
   "lastOpenFiles": [
+    "Andrew Ng/LLM Semantic Search.md",
     "Fast.ai/Deep Learning For Coders.md",
     "Fast.ai/PyTorch Deep Learning",
     "Fast.ai/Deep Learning for Coders",
-    "Andrew Ng/LLM Semantic Search.md",
     "Random/Intro to LLM- Andrej Karpathy.md",
     "CS50/AI/Lec2- Knowledge.md",
     "Random",
