@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3733a1371c1b3679",
+        "id": "a49f132928263b14",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a99b233c3f5ed1",
+            "id": "27898de57c241a5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "fastai/Online/Lesson1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "26365bf193740d51",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andrew Ng/Generative AI For Everyone.md",
+                "file": "fastai/Online/Lesson1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andrew Ng/Generative AI For Everyone.md",
+                "file": "fastai/Online/Lesson1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andrew Ng/Generative AI For Everyone.md"
+                "file": "fastai/Online/Lesson1.md"
               }
             }
           }
@@ -142,9 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c24afdaf8790bd4a",
+  "active": "27898de57c241a5a",
   "lastOpenFiles": [
-    "fastai/Online/Deep Learning for Coders.md",
+    "Untitled.md",
+    "fastai/Online/Lesson1.md",
+    "Andrew Ng/Generative AI For Everyone.md",
     "fastai/Book/Deep Learning with PyTorch.md",
     "fastai/Online",
     "fastai/Book",
@@ -161,7 +168,6 @@
     "Machine Learning Specialization/Week 1/Introduction to ML.md",
     "Codecademy/Fundamentals of AI.md",
     "Pytorch",
-    "Andrew Ng/Generative AI For Everyone.md",
     "CS50/AI",
     "CS50",
     "Codecademy/Machine Learning Career Path/Lesson 1.md",
