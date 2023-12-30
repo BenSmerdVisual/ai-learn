@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b636388162474284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fastai/Online/Lesson1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f0d03488ddb9eab",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,9 +149,9 @@
   },
   "active": "0f0d03488ddb9eab",
   "lastOpenFiles": [
-    "Pytorch/Chapter1",
     "fastai/Online/Lesson1.md",
     "Pytorch/Chapter1/Intro.md",
+    "Pytorch/Chapter1",
     "fastai/Online/Lesson 2.md",
     "fastai/Book/Deep Learning with PyTorch.md",
     "fastai/Online/Deep Learning for Coders.md",
@@ -187,7 +174,6 @@
     "Codecademy/Machine Learning Career Path",
     "Andrew Ng/AI For Everyone.md",
     "Machine Learning Specialization/Week 1",
-    "Machine Learning Specialization",
     "HuggingFace/NLP.md",
     "Machine Learning Specialization.md",
     "Hugging Face Course.md",
